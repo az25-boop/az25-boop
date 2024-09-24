@@ -4,7 +4,7 @@ About Me
     🔭 I’m junior Front-end developer.
     🌱 I’m currently learning JavaScript, React.
     🌌 In my spare time, I create beautiful and productive applications.
-    💚 [My resume](https://az25-boop.github.io/resume/)
+    💚 My resume
 
 Courses
 
