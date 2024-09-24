@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋, I`m Paul 👦 </p>
+##  <b>Hi there 👋, I`m Paul 👦 </b> 
 
 ### About Me
 
@@ -33,7 +33,7 @@
 
 ![TechSkills-Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,md)
 
-![TechSkills-Frameworks](https://skillicons.dev/icons?i=react,redux,nextjs,express,gulp,tailwind)
+![TechSkills-Frameworks](https://skillicons.dev/icons?i=react,redux,nextjs,express,gulp,tailwind,)
 
 [![OtherTechSkills](https://skillicons.dev/icons?i=regex,styledcomponents)](https://skillicons.dev)
 
@@ -43,7 +43,7 @@
 
 | **GitHub Analytics**                                                                                                                                       | **Codewars**                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Statistic](https://github-readme-stats.vercel.app/) | <a href="https://www.codewars.com/"><img src="https://www.codewars.com/users/" alt="codewars profile badge"></a> |
+| ![Statistic](https://github-readme-stats.vercel.app/) | <a href="https://www.codewars.com/"><img src="https://www.codewars.com/" alt="codewars profile badge"></a> |
 
 ---
 
