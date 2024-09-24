@@ -46,3 +46,9 @@
 | ![Statistic](https://github-readme-stats.vercel.app/) | <a href="https://www.codewars.com/"><img src="https://www.codewars.com/users/" alt="codewars profile badge"></a> |
 
 ---
+
+## 💖 Support the Project
+
+Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
+
+<a href='https://ko-fi.com/pavelmelnik' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
