@@ -20,12 +20,12 @@
 
 - **Team projects**
 
-  - [Watches]() [[Github]()]
-  - [Portfolio ](https://dimaostapchuk91.github.io/The-Jedi-of-JavaScript-team/) [[Github](https://github.com/DimaOstapchuk91/The-Jedi-of-JavaScript-team)]
+  - [Watches](https://maryna999.github.io/premium-watches/) [[Github](https://github.com/maryna999/premium-watches)]
+  - [Portfolio LLOYD JEFFERSON](https://dimaostapchuk91.github.io/The-Jedi-of-JavaScript-team/) [[Github](https://github.com/DimaOstapchuk91/The-Jedi-of-JavaScript-team)]
 
 - **Pet projects**
   - [ContactSync]() [[Github]()]
-  - [Web Studio] () [[Github]()]
+  - [Web Studio]() [[Github]()]
 
 ---
       
