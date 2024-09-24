@@ -7,6 +7,14 @@
 - :milky_way: In my spare time, I create beautiful and productive applications.
 - :octocat: [My resume](https://az25-boop.github.io/resume/)
 
+#### Connect with me
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/az25-boop)
+[![GitHub](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pavel-melnik-475608300)
+[<img src="https://user-images.githubusercontent.com/96209694/197350945-d92dab8d-5075-4a38-9065-25325ba8cac4.png" style="width:50px; height:50px" >](mailto:orendapoltava@gmail.com)
+
+---
+
 Courses
 
     GoIT Full Stack Developer
@@ -14,6 +22,8 @@ Courses
         JavaScript
         React
         NodeJs
+
+        
 
 ### Tech Skills
 
