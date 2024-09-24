@@ -1,4 +1,4 @@
-# <p align="center">Hi there, I`m Paul👨 👋</p>
+# <p align="center">Hi there, I`m Paul 👦 👋</p>
 
 ### About Me
 
@@ -7,6 +7,7 @@
 - :milky_way: In my spare time, I create beautiful and productive applications.
 - :octocat: [My resume](https://az25-boop.github.io/resume/)
 
+
 #### Connect with me
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/az25-boop)
@@ -14,20 +15,11 @@
 [<img src="https://user-images.githubusercontent.com/96209694/197350945-d92dab8d-5075-4a38-9065-25325ba8cac4.png" style="width:50px; height:50px" >](mailto:orendapoltava@gmail.com)
 
 ---
-
-Courses
-
-    GoIT Full Stack Developer
-        HTML&CSS
-        JavaScript
-        React
-        NodeJs
-
-        
+      
 
 ### Tech Skills
 
-![TechSkills-Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,mongodb,md)
+![TechSkills-Language](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,md)
 
 ![TechSkills-Frameworks](https://skillicons.dev/icons?i=react,redux,nextjs,express,gulp,tailwind)
 
