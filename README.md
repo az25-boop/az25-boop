@@ -15,6 +15,19 @@
 [<img src="https://user-images.githubusercontent.com/96209694/197350945-d92dab8d-5075-4a38-9065-25325ba8cac4.png" style="width:50px; height:50px" >](mailto:orendapoltava@gmail.com)
 
 ---
+
+### My Projects
+
+- **Team projects**
+
+  - [Watches]() [[Github](https://github.com/)]
+  - [Portfolio]() [[Github](https://github.com/)]
+
+- **Pet projects**
+  - [ContactSync]() [[Github]()]
+  - [Web Studio]
+
+---
       
 
 ### Tech Skills
