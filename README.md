@@ -1,4 +1,4 @@
-# <p align="center">Hi there, I`m Paul 👦 👋</p>
+# <p align="center">Hi there 👋, I`m Paul 👦 </p>
 
 ### About Me
 
