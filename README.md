@@ -20,12 +20,12 @@
 
 - **Team projects**
 
-  - [Watches]() [[Github](https://github.com/)]
-  - [Portfolio]() [[Github](https://github.com/)]
+  - [Watches]() [[Github]()]
+  - [Portfolio ](https://dimaostapchuk91.github.io/The-Jedi-of-JavaScript-team/) [[Github](https://github.com/DimaOstapchuk91/The-Jedi-of-JavaScript-team)]
 
 - **Pet projects**
   - [ContactSync]() [[Github]()]
-  - [Web Studio]
+  - [Web Studio] () [[Github]()]
 
 ---
       
@@ -39,5 +39,11 @@
 [![OtherTechSkills](https://skillicons.dev/icons?i=regex,styledcomponents)](https://skillicons.dev)
 
 ![Tools](https://skillicons.dev/icons?i=github,git,vscode,postman,figma)
+
+---
+
+| **GitHub Analytics**                                                                                                                                       | **Codewars**                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Statistic](https://github-readme-stats.vercel.app/) | <a href="https://www.codewars.com/"><img src="https://www.codewars.com/"></a> |
 
 ---
