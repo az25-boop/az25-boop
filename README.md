@@ -1,4 +1,5 @@
-Hi there, I`m Paul👨 👋
+# <p align="center">Hi there, I`m Paul👨 👋</p>
+
 ### About Me
 
 - :telescope: I’m junior Front-end developer.
