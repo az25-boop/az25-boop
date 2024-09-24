@@ -20,12 +20,11 @@
 
 - **Team projects**
 
-  - [Watches](https://maryna999.github.io/premium-watches/) [[Github](https://github.com/maryna999/premium-watches)]
+  - [Premium-Watches](https://maryna999.github.io/premium-watches/) [[Github](https://github.com/maryna999/premium-watches)]
   - [Portfolio LLOYD JEFFERSON](https://dimaostapchuk91.github.io/The-Jedi-of-JavaScript-team/) [[Github](https://github.com/DimaOstapchuk91/The-Jedi-of-JavaScript-team)]
 
 - **Pet projects**
-  - [ContactSync]() [[Github]()]
-  - [Web Studio]() [[Github]()]
+   - [Web Studio]() [[Github]()]
 
 ---
       
@@ -44,6 +43,6 @@
 
 | **GitHub Analytics**                                                                                                                                       | **Codewars**                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Statistic](https://github-readme-stats.vercel.app/) | <a href="https://www.codewars.com/"><img src="https://www.codewars.com/"></a> |
+| ![Statistic](https://github-readme-stats.vercel.app/) | <a href="https://www.codewars.com/"><img src="https://www.codewars.com/users/" alt="codewars profile badge"></a> |
 
 ---
