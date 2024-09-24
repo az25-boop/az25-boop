@@ -1,10 +1,10 @@
 Hi there, I`m Paul👨 👋
-About Me
+### About Me
 
-    🔭 I’m junior Front-end developer.
-    🌱 I’m currently learning JavaScript, React.
-    🌌 In my spare time, I create beautiful and productive applications.
-    💚 My resume
+- :telescope: I’m junior Front-end developer.
+- :seedling: I’m currently learning JavaScript, React.
+- :milky_way: In my spare time, I create beautiful and productive applications.
+- :octocat: [My resume](https://az25-boop.github.io/resume/)
 
 Courses
 
