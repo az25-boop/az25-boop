@@ -29,7 +29,7 @@
 
 - **Pet projects**
    - [Web Studio](https://az25-boop.github.io/Web-studio/) [[Github](https://github.com/az25-boop/Web-studio)]
-
+   - [Trending today](https://vercel.live/link/goit-react-hw-05-j8xq.vercel.app/?via=team-dashboard-project-entity&p=1) [[Github](https://github.com/az25-boop/goit--react--hw--05)]
 ---
       
 
