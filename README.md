@@ -28,7 +28,7 @@
   - [Portfolio LLOYD JEFFERSON](https://dimaostapchuk91.github.io/The-Jedi-of-JavaScript-team/) [[Github](https://github.com/DimaOstapchuk91/The-Jedi-of-JavaScript-team)]
 
 - **Pet projects**
-   - [Web Studio]() [[Github]()]
+   - [Web Studio](https://az25-boop.github.io/Web-studio/) [[Github](https://github.com/az25-boop/Web-studio)]
 
 ---
       
